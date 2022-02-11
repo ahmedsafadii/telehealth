@@ -1,0 +1,295 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-02-11 22:32+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!=0)))?"
+"2:1));\n"
+
+#: .\booking\apps.py:8 .\booking\models\booking.py:21
+msgid "Bookings"
+msgstr ""
+
+#: .\booking\models\booking.py:7 .\doctor\models\doctor.py:39
+#: .\doctor\models\doctor.py:47 .\doctor\models\doctor.py:66
+#: .\doctor\models\doctor.py:85
+msgid "Doctor"
+msgstr ""
+
+#: .\booking\models\booking.py:9 .\patient\models\patient.py:36
+msgid "Patient"
+msgstr ""
+
+#: .\booking\models\booking.py:12
+msgid "Consultation type"
+msgstr ""
+
+#: .\booking\models\booking.py:13 .\doctor\models\doctor.py:51
+msgid "Price"
+msgstr ""
+
+#: .\booking\models\booking.py:14
+msgid "Date"
+msgstr ""
+
+#: .\booking\models\booking.py:16
+msgid "Time"
+msgstr ""
+
+#: .\booking\models\booking.py:17 .\doctor\models\doctor.py:34
+#: .\doctor\models\doctor.py:52 .\doctor\models\doctor.py:71
+#: .\doctor\models\doctor.py:90 .\doctor\models\otp.py:10
+#: .\patient\models\otp.py:10 .\patient\models\patient.py:31
+#: .\setting\models\areas.py:13 .\setting\models\areas.py:31
+#: .\setting\models\consultations.py:11
+#: .\setting\models\insurance_companies.py:14
+#: .\setting\models\specialities.py:11
+msgid "Created"
+msgstr ""
+
+#: .\booking\models\booking.py:18 .\doctor\models\doctor.py:35
+#: .\doctor\models\doctor.py:53 .\doctor\models\doctor.py:72
+#: .\doctor\models\doctor.py:91 .\doctor\models\otp.py:11
+#: .\patient\models\otp.py:11 .\patient\models\patient.py:32
+#: .\setting\models\areas.py:14 .\setting\models\areas.py:32
+#: .\setting\models\consultations.py:12
+#: .\setting\models\insurance_companies.py:15
+#: .\setting\models\specialities.py:12
+msgid "Updated"
+msgstr ""
+
+#: .\booking\models\booking.py:22
+msgid "Booking"
+msgstr ""
+
+#: .\doctor\api\v1\doctor\serializer.py:35
+#: .\doctor\api\v1\doctor\serializer.py:85
+#: .\doctor\api\v1\doctor\serializer.py:132
+#: .\doctor\api\v1\doctor\serializer.py:242
+msgid "Looks like this country is not exist"
+msgstr ""
+
+#: .\doctor\api\v1\doctor\serializer.py:46
+#: .\doctor\api\v1\doctor\serializer.py:94
+msgid "You enter a wrong code"
+msgstr ""
+
+#: .\doctor\api\v1\doctor\serializer.py:49
+msgid "This phone number is already exist"
+msgstr ""
+
+#: .\doctor\api\v1\doctor\serializer.py:102
+msgid "This phone number is not register in our system"
+msgstr ""
+
+#: .\doctor\api\v1\doctor\serializer.py:228
+msgid "Looks like this consultation type is not exist"
+msgstr ""
+
+#: .\doctor\api\v1\doctor\serializer.py:235
+msgid "Looks like this company is not exist"
+msgstr ""
+
+#: .\doctor\api\v1\doctor\serializer.py:249
+msgid "Looks like some of specialities is not exist"
+msgstr ""
+
+#: .\doctor\api\v1\doctor\views.py:21 .\doctor\api\v1\doctor\views.py:32
+#: .\doctor\api\v1\doctor\views.py:43 .\doctor\api\v1\doctor\views.py:64
+msgid "Please fix the errors below"
+msgstr ""
+
+#: .\doctor\apps.py:8 .\doctor\models\doctor.py:38
+msgid "Doctors"
+msgstr ""
+
+#: .\doctor\models\doctor.py:8 .\patient\models\patient.py:9
+msgid "User"
+msgstr ""
+
+#: .\doctor\models\doctor.py:11 .\patient\models\patient.py:13
+msgid "Male"
+msgstr ""
+
+#: .\doctor\models\doctor.py:12 .\patient\models\patient.py:14
+msgid "Female"
+msgstr ""
+
+#: .\doctor\models\doctor.py:15
+msgid "Gender"
+msgstr ""
+
+#: .\doctor\models\doctor.py:17 .\patient\models\patient.py:19
+msgid "Picture"
+msgstr ""
+
+#: .\doctor\models\doctor.py:20 .\doctor\models\otp.py:7
+#: .\patient\models\otp.py:7 .\patient\models\patient.py:22
+#: .\setting\models\areas.py:18 .\setting\models\areas.py:26
+#: .\setting\models\insurance_companies.py:8
+msgid "Country"
+msgstr ""
+
+#: .\doctor\models\doctor.py:23 .\patient\models\patient.py:25
+#: .\setting\models\areas.py:36
+msgid "City"
+msgstr ""
+
+#: .\doctor\models\doctor.py:25 .\doctor\models\otp.py:8
+#: .\patient\models\otp.py:8 .\patient\models\patient.py:27
+msgid "Phone"
+msgstr ""
+
+#: .\doctor\models\doctor.py:27 .\patient\models\patient.py:29
+msgid "Address"
+msgstr ""
+
+#: .\doctor\models\doctor.py:29
+msgid "Bio"
+msgstr ""
+
+#: .\doctor\models\doctor.py:31 .\setting\models\specialities.py:15
+msgid "Specialities"
+msgstr ""
+
+#: .\doctor\models\doctor.py:50 .\setting\models\consultations.py:16
+msgid "Consultation"
+msgstr ""
+
+#: .\doctor\models\doctor.py:57
+msgid "Doctor Consultations"
+msgstr ""
+
+#: .\doctor\models\doctor.py:58
+msgid "Doctor Consultation"
+msgstr ""
+
+#: .\doctor\models\doctor.py:69 .\setting\models\insurance_companies.py:19
+msgid "Insurance company"
+msgstr ""
+
+#: .\doctor\models\doctor.py:70
+msgid "Number"
+msgstr ""
+
+#: .\doctor\models\doctor.py:76
+msgid "Doctor Insurance companies"
+msgstr ""
+
+#: .\doctor\models\doctor.py:77
+msgid "Doctor Insurance Company"
+msgstr ""
+
+#: .\doctor\models\doctor.py:86
+msgid "Start time"
+msgstr ""
+
+#: .\doctor\models\doctor.py:87
+msgid "End time"
+msgstr ""
+
+#: .\doctor\models\doctor.py:88
+msgid "Is free"
+msgstr ""
+
+#: .\doctor\models\doctor.py:89
+msgid "Note"
+msgstr ""
+
+#: .\doctor\models\doctor.py:95
+msgid "Doctor time slots"
+msgstr ""
+
+#: .\doctor\models\doctor.py:96
+msgid "Doctor time slot"
+msgstr ""
+
+#: .\doctor\models\otp.py:9 .\patient\models\otp.py:9
+#: .\setting\models\areas.py:11
+msgid "Code"
+msgstr ""
+
+#: .\doctor\models\otp.py:15
+msgid "Doctors OTP"
+msgstr ""
+
+#: .\doctor\models\otp.py:16
+msgid "Doctor OTP"
+msgstr ""
+
+#: .\patient\apps.py:8 .\patient\models\patient.py:35
+msgid "Patients"
+msgstr ""
+
+#: .\patient\models\otp.py:14
+msgid "Patients OTP"
+msgstr ""
+
+#: .\patient\models\otp.py:15
+msgid "Patient OTP"
+msgstr ""
+
+#: .\patient\models\patient.py:10 .\setting\models\areas.py:8
+#: .\setting\models\areas.py:28 .\setting\models\consultations.py:8
+#: .\setting\models\insurance_companies.py:11
+#: .\setting\models\specialities.py:8
+msgid "Name"
+msgstr ""
+
+#: .\setting\admin.py:12 .\setting\admin.py:28 .\setting\admin.py:44
+#: .\setting\admin.py:59 .\setting\admin.py:71
+msgid "Name Translate Fields"
+msgstr ""
+
+#: .\setting\apps.py:8
+msgid "Settings"
+msgstr ""
+
+#: .\setting\models\areas.py:17
+msgid "Countries"
+msgstr ""
+
+#: .\setting\models\areas.py:35
+msgid "Cities"
+msgstr ""
+
+#: .\setting\models\consultations.py:15
+msgid "Consultations"
+msgstr ""
+
+#: .\setting\models\insurance_companies.py:18
+msgid "Insurance companies"
+msgstr ""
+
+#: .\setting\models\specialities.py:16
+msgid "Speciality"
+msgstr ""
+
+#: .\telehealth\middleware.py:31
+msgid "an unexpected error happened which might be temporary"
+msgstr ""
+
+#: .\telehealth\settings.py:115
+msgid "English"
+msgstr ""
+
+#: .\telehealth\settings.py:116
+msgid "Arabic"
+msgstr ""
+
+#: .\telehealth\settings.py:117
+msgid "Romanian"
+msgstr ""
